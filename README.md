@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Tabeth Cinderella Matongo
 
-**AI Systems Engineer in training | Computer Science @ KIIT University**
+Computer Science student at KIIT, building toward a career where AI engineering meets governance, law, and finance. My technical foundation is in full-stack development and AI systems — but the problems I want to solve live further upstream: how do we design intelligent systems that are equitable, accountable, and built for the long run?
 
-I’m a Full Stack Developer and aspiring AI Engineer focused on building end-to-end systems that solve real-world problems through intelligent design and automation.
-I’m actively strengthening my foundation in data structures and algorithms while developing high-impact projects that reflect consistency, execution, and depth. Beyond engineering, I’m interested in the intersection of AI, governance, and quantitative finance, aiming to evolve into an AI systems engineer who builds scalable, decision-driven technologies.
-
+I'm actively deepening my work in data structures & algorithms, machine learning, and system architecture, while developing fluency in the regulatory and financial frameworks that will shape how AI gets deployed at scale. I think the most important engineers of the next decade will be the ones who understand both the code and the consequences.
