@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Tabeth Cinderella Matongo
 
-Computer Science student at KIIT, building toward a career where AI engineering meets governance, law, and finance. My technical foundation is in full-stack development and AI systems — but the problems I want to solve live further upstream: how do we design intelligent systems that are equitable, accountable, and built for the long run?
 
-I'm actively deepening my work in data structures & algorithms, machine learning, and system architecture, while developing fluency in the regulatory and financial frameworks that will shape how AI gets deployed at scale. I think the most important engineers of the next decade will be the ones who understand both the code and the consequences.
+AI will not regulate itself. Neither will any other system. 
+That is why I build --at the intersection of technology and law
+Technology that strengthens institutions, code that promotes the rule of law and systems that do not fail the people.
+
+North Star - Peace , Justice and Strong Institutions
+
+[ technology unbounded by law is dominance without constraints, law unimplemented in code is command without compliance ]
+
+Calm , Diplomatic and Organized.
