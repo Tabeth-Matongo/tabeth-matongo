@@ -1,0 +1,10 @@
+{
+  "name": "tabeth-matongo-portfolio",
+  "version": "1.0.0",
+  "description": "A cosmic portfolio website inspired by adv-aith.dev for Tabeth Cinderella Matongo.",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "build": "rm -rf dist && mkdir -p dist/src && cp index.html dist/ && cp src/styles.css src/main.js dist/src/"
+  }
+}
