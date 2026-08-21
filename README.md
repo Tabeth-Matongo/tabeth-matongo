@@ -3,3 +3,4 @@
 
  
 Calm , Diplomatic and Precise
+Introvert
